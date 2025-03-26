@@ -6,7 +6,7 @@ I primarily develop Discord chatbots.
 
 ---
 
-> **My Skills**
+### **My Skills**
 
 **Language**
 
