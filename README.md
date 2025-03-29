@@ -10,7 +10,7 @@ I primarily develop Discord chatbots.
 
 **Language**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=black) (Know the basics)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white) <sub>(Know the basics)</sub>
 
 **Database**
 
